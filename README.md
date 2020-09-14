@@ -17,6 +17,8 @@ You might know me from these open source projects:
 - [Webhook CMS][6] - An early (2013!) Jamstack (This wasn't even a word yet!) CMS you can reminisce about on [Vimeo][7].
 - [Read the Docs][7] - I get a kick that my theme work powers the Linux kernal docs.
 
+Lastly. Yes, I am also _that Dave Snider_ from [Giant Bomb][12] (the website about videogames). You can read more about what I'm up to on my [personal website][13].
+
 [0]: https://elastic.co
 [1]: https://github.com/elastic/eui
 [2]: https://github.com/jarun/nnn
@@ -29,3 +31,5 @@ You might know me from these open source projects:
 [9]: https://github.com/neovim/neovim
 [10]: https://fishshell.com/
 [11]: https://github.com/alacritty/alacritty
+[12]: https://giantbomb.com
+[13]: https://davesnider.com
