@@ -4,7 +4,7 @@ Hello random visitor. My name is Dave Snider. I've been working with computers i
 
 I enjoy designing through code and these days start most projects with a commit rather than a mock. I love open source, and tend to contribute or sponsor anything I personally use. My daily tools are:
 
-- Manjaro with i3 is my desktop
+- Arch with i3 is my desktop
 - [Neovim][9] is my editor
 - [Fish][10] is shell
 - [Alacritty][11] for a terminal
