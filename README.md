@@ -14,7 +14,7 @@ You might know me from these open source projects:
 
 - [Elastic UI][1] - The React design system that powers Elastic.
 - [Kibana][5] - Charts and things!
-- [Webhook CMS][6] - An early (2013!) Jamstack (This wasn't even a word yet!) CMS you can reminisce about on [Vimeo][7].
+- [Webhook CMS][6] - An early (2013!) Jamstack (This wasn't even a word yet!) CMS you can reminisce about on [Vimeo][8].
 - [Read the Docs][7] - I get a kick that my theme work powers the Linux kernal docs.
 
 For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (the website about videogames). You can read more about what I'm up to on my [personal website][13].
