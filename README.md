@@ -1,6 +1,6 @@
 ### Hello, I'm Dave 👋
 
-Hello random visitor. My name is Dave Snider. I've been working with computers in some form or another since the early 90s when I hacked away on an old IBM PS2 and a pre-www Prodigy account. Since then I've mostly fiddled around on the Internet building websites for myself, CNET, or CBS. The last four years I've called [@elastic][0] home, founding [@elastic/eui][1] and building a UX organization filled with some fantastic people.
+Hello random visitor. My name is Dave Snider. I've been working with computers in some form or another since the early 90s when I hacked away on an old IBM PS2 and a pre-www Prodigy account. Since then I've mostly fiddled around on the Internet building websites for myself, Elastic, CNET, or CBS. Right now I work at [iRacing][16] as a UX designer.
 
 I enjoy designing through code and these days start most projects with a commit rather than a mock. I love open source, and tend to contribute or sponsor anything I personally use. My daily tools are:
 
@@ -35,3 +35,4 @@ For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (th
 [13]: https://davesnider.com
 [14]: https://i3wm.org/
 [15]: https://archlinux.org/
+[16]: https://iracing.com
