@@ -4,13 +4,13 @@ Hello random visitor. My name is Dave Snider. I've been working with computers i
 
 I enjoy designing through code and these days start most projects with a commit rather than a mock. I love open source, and tend to contribute or sponsor anything I personally use. My daily tools are:
 
-- [Arch Linux][15] with [i3 window manager][14] is my desktop
+- [Arch Linux][15] with [Gnome][14] is my desktop
 - [Neovim][9] is my editor
 - [Fish][10] is shell
 - [Alacritty][11] for a terminal
 - For navigating around I enjoy [nnn][2], [fzf][3], and [bat][4]
 
-You might know me from these open source projects:
+You might know me from these open source projects where I was a significant contributor.
 
 - [Elastic UI][1] - The React design system that powers Elastic.
 - [Kibana][5] - Charts and things!
@@ -33,6 +33,6 @@ For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (th
 [11]: https://github.com/alacritty/alacritty
 [12]: https://giantbomb.com
 [13]: https://davesnider.com
-[14]: https://i3wm.org/
+[14]: h[ttps://i3wm.org/](https://www.gnome.org/)
 [15]: https://archlinux.org/
 [16]: https://iracing.com
