@@ -33,6 +33,6 @@ For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (th
 [11]: https://github.com/alacritty/alacritty
 [12]: https://giantbomb.com
 [13]: https://davesnider.com
-[14]: h[ttps://i3wm.org/](https://www.gnome.org/)
+[14]: https://i3wm.org/](https://www.gnome.org/)
 [15]: https://archlinux.org/
 [16]: https://iracing.com
