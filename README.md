@@ -11,11 +11,11 @@ I enjoy designing through code and these days start most projects with a commit 
 - For navigating around I enjoy [nnn][2], [fzf][3], and [bat][4]
 
 You might know me from these open source projects where I was a significant contributor.
-
+- [Table Slayer][17] - Table Slayer helps game masters build and manage animated battle maps for in person RPG games on a TV.
 - [Elastic UI][1] - The React design system that powers Elastic.
-- [Kibana][5] - Charts and things!
+- [Kibana][5] - Kibana is the UI interface for Elastic.
 - [Webhook CMS][6] - An early (2013!) Jamstack (This wasn't even a word yet!) CMS you can reminisce about on [Vimeo][8].
-- [Read the Docs][7] - I get a kick that my theme work powers the Linux kernal docs.
+- [Read the Docs][7] - Read the Docs provides Sphinx powered documentation for free.
 
 For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (the website about videogames). You can read more about what I'm up to on my [personal website][13].
 
