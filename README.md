@@ -12,6 +12,7 @@ I enjoy designing through code and these days start most projects with a commit 
 
 You might know me from these open source projects where I was a significant contributor.
 - [Table Slayer][17] - Table Slayer helps game masters build and manage animated battle maps for in person RPG games on a TV.
+- [Counter Slayer][18] - Counter Slayer helps generate box insert STLs for your wargaming counters.
 - [Elastic UI][1] - The React design system that powers Elastic.
 - [Kibana][5] - Kibana is the UI interface for Elastic.
 - [Webhook CMS][6] - An early (2013!) Jamstack (This wasn't even a word yet!) CMS you can reminisce about on [Vimeo][8].
