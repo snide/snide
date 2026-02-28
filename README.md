@@ -38,3 +38,4 @@ For you video game nerds, I am also _that Dave Snider_ from [Giant Bomb][12] (th
 [15]: https://archlinux.org/
 [16]: https://iracing.com
 [17]: https://tableslayer.com
+[18]: https://counterslayer.com
